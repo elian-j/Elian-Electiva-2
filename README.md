@@ -1,7 +1,4 @@
-# Elian-Electiva-2
-# Tarea de Big Data - Data Warehouse
-
-Este repositorio ha sido creado como parte de una práctica para gestionar ramas en GitHub. Contiene dos archivos `.sql` que forman parte del desarrollo de una tarea de la asignatura **Big Data**, cuyo objetivo principal fue diseñar y construir un **Data Warehouse**.
+Este repositorio ha sido creado como parte de una práctica para gestionar ramas en GitHub. Contiene dos archivos `.sql` que forman parte del desarrollo de una tarea de la asignatura **Electiva-2**, cuyo objetivo principal fue diseñar y construir un **Data Warehouse**. 
 
 ## Estructura del Repositorio
 
@@ -22,8 +19,3 @@ El propósito de esta tarea fue diseñar un esquema de Data Warehouse que permit
 - Normalización y desnormalización de datos según el caso.
 - Preparación para futuras consultas OLAP.
 
-## Autor
-
-- Estudiante: [Tu Nombre]
-- Materia: Big Data
-- Instituto: [ITLA u otro]
